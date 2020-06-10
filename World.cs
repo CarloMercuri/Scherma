@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// CUTS, MERGES AND LOADS TILE AND PLAYER TEXTURES
+
 public static class World
 {
 
