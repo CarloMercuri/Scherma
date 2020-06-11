@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+// CUTS, MERGES AND LOADS TILE AND PLAYER TEXTURES
+
 public static class Texturing
 {
 
